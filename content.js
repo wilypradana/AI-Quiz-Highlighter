@@ -1,7 +1,7 @@
 (async function () {
   console.log("🚀 AI Quiz Helper (Extension Mode): Aktif tanpa tombol layar.");
 
-  const OPENROUTER_API_KEY = "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";
+  const OPENROUTER_API_KEY = "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";
   const MODEL = "deepseek/deepseek-chat"; 
 
   let isEnabled = false;
